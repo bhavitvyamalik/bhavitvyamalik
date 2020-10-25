@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **deep learning (CV/NLP) with special focus on edge devices (Jetson Nano, Google Coral)**
 
-- 👯 I’m looking to collaborate on **research projects in Computer Vision/ Natural Language Processing**
+- 👯 I’m looking to collaborate on **research projects in Natural Language Processing**
 
 - 📫 How to reach me **bhavitvya.malik@gmail.com**
 
